@@ -1,0 +1,29 @@
+{
+  "name": "savings-calculator",
+  "version": "0.1.0",
+  "authors": [
+    "Andrew Brown <andrew@casabrown.com>"
+  ],
+  "description": "Calculate savings on real estate lease contracts",
+  "main": "index.html",
+  "keywords": [
+    "savings",
+    "calculator",
+    "real",
+    "estate",
+    "lease"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "d3": "~3.4.11"
+  }
+}

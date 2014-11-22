@@ -1,0 +1,34 @@
+.chart {
+    width: 100%;
+    height: 300px;
+}
+.chart rect {
+    fill: steelblue;
+}
+.chart text {
+    fill: black;
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.bars rect {
+    width: 100%;
+    height: 100%;
+}
+.bars text {
+    font: 14px sans-serif;
+    text-anchor: end;
+    /*fill: white;*/
+}
+.remove-lease{
+    float: right;
+    margin-top: 20px;
+}
+.add-lease{
+    margin-top: 20x;
+}
